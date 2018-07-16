@@ -1,10 +1,10 @@
-package Calculator;
+package Calculate;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class Calculate 
 {
     public static void main( String[] args )
     {
